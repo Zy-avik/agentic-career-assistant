@@ -47,7 +47,7 @@ This score represents skill coverage, not a prediction of hiring success.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/agentic-career-assistant.git
+git clone https://github.com/Zy-avik/agentic-career-assistant.git
 cd agentic-career-assistant
 ```
 
