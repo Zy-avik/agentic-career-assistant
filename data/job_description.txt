@@ -1,0 +1,12 @@
+We are looking for a Junior Data Scientist.
+
+Requirements:
+-Python
+-SQL
+-Pandas
+-Numpy
+-Machine Learning
+-Statistics
+-Data Visualization
+-Scikit-learn
+-Communication skills
